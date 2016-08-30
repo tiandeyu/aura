@@ -21,4 +21,7 @@ import org.auraframework.util.ServiceLoaderImpl.AuraConfiguration;
  */
 @AuraConfiguration
 public class AuraConfig {
+    public static void main (String[] args) {
+        System.out.println("Hello World!");
+    }
 }
